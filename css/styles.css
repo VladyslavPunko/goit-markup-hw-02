@@ -28,7 +28,7 @@ ul {
   color: #2e2f42;
 }
 
-.header-list-link {
+.header-list-item {
   color: var(--NAVY-BLUE, #2e2f42);
   font-size: 16px;
   font-weight: 500;
@@ -82,9 +82,8 @@ ul {
   letter-spacing: 0.04em;
 }
 
-.tittle-button:hover {
-  background: var(--OCEAN, #404bbf);
-  cursor: pointer;
+.tittle-button:focus,  .tittle-button:hover,{
+  background: var(--OCEAN, #404bbf); cursor: pointer;
 }
 
 /** ====section2===== */
