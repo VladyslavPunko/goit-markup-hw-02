@@ -83,10 +83,11 @@ ul {
 }
 
 .tittle-button{cursor: pointer;
-background: var(--IRIS, #4D5AE5);}
+background:#4d5ae5;}
 
-.tittle-button:focus,  .tittle-button:hover,{
-  background: #404bbf;}
+.tittle-button:hover { background-color: #404BBF }
+
+.tittle-button:focus{ background-color: #404BBF ;}
 
 /** ====section2===== */
 
