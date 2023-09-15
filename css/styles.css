@@ -28,51 +28,34 @@ ul {
   color: #2e2f42;
 }
 
-.header-list-item {
-  color: #2e2f42;
+.heder-list {
+}
+.heder-list-item {
+}
+.heder-list-link   {color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  line-height: 1.5'
+  letter-spacing: 0.02;
 }
+.heder-list-link:hover, .heder-list-link:focus{color: #404bbf;}
 
-.header-adress {
-  font-style: normal;
-  font-weight: 400;
-}
 
-.heder-list-studio {
-  font-weight: 500;
-  color: #2e2f42;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
 
-.header-adress-item {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
 
-.header-adress-link {
-  color: #434455;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+.adress {font-style: normal;
 }
-.header-adress-item:hover {
-  color: #404bbf;
+.adres-list {
 }
-.header-adress-item:focus {
-  color: #404bbf;
+.adres-list-item {
 }
-
-.header-list-studio:hover,
-.header-list-studiu:focus {
-  color: #404bbf;
+.adres-list-link {color:#434455;
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
+.adres-list-link:hover, .adres-list-link:focus{color: #404bbf;}
 /** ====section1===== */
 
 .tittle {
