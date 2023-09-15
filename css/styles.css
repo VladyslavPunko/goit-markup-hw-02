@@ -16,7 +16,7 @@ ul {
 
 .header-nav-logo {
   color: var(--NAVY-BLUE, #4d5ae5);
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
@@ -41,6 +41,13 @@ ul {
   font-weight: 400;
 }
 
+.heder-list-studio { font-weight: 500; color: var(--NAVY-BLUE, #2e2f42);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+}
 .header-adress-link {
   color: var(--SLATE, #434455);
   font-size: 16px;
@@ -54,7 +61,7 @@ ul {
 }
 
 .header-list-studio:hover,
-.header-list-link:focus {
+.header-list-studiu:focus {
   color: #404bbf;
 }
 /** ====section1===== */
