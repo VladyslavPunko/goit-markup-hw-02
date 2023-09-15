@@ -29,7 +29,7 @@ ul {
 }
 
 .header-list-item {
-  color:#2e2f42;
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -41,21 +41,33 @@ ul {
   font-weight: 400;
 }
 
-.heder-list-studio { font-weight: 500; color: var(--NAVY-BLUE, #2e2f42);
+.heder-list-studio {
+  font-weight: 500;
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+.header-adress-item {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
 }
+
 .header-adress-link {
   color: #434455;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-adress-link:hover{color: #404bbf}
-.header-adress-link:focus{color: #404bbf}
+.header-adress-item:hover {
+  color: #404bbf;
+}
+.header-adress-item:focus {
+  color: #404bbf;
+}
 
 .header-list-studio:hover,
 .header-list-studiu:focus {
@@ -83,12 +95,18 @@ ul {
   letter-spacing: 0.04em;
 }
 
-.tittle-button{cursor: pointer;
-background:#4d5ae5;}
+.tittle-button {
+  cursor: pointer;
+  background: #4d5ae5;
+}
 
-.tittle-button:hover { background-color: #404BBF }
+.tittle-button:hover {
+  background-color: #404bbf;
+}
 
-.tittle-button:focus{ background-color: #404BBF ;}
+.tittle-button:focus {
+  background-color: #404bbf;
+}
 
 /** ====section2===== */
 
