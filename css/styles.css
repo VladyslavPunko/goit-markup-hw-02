@@ -82,9 +82,11 @@ ul {
   letter-spacing: 0.04em;
 }
 
+.tittle-button{cursor: pointer;
+background: var(--IRIS, #4D5AE5);}
+
 .tittle-button:focus,  .tittle-button:hover,{
-  background: var(--OCEAN, #404bbf); cursor: pointer;
-}
+  background: #404bbf;}
 
 /** ====section2===== */
 
