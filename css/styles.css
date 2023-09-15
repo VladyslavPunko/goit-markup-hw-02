@@ -32,30 +32,36 @@ ul {
 }
 .heder-list-item {
 }
-.heder-list-link   {color: #2e2f42;
+.heder-list-link {
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
-  line-height: 1.5'
+  line-height: 1.5;
   letter-spacing: 0.02;
 }
-.heder-list-link:hover, .heder-list-link:focus{color: #404bbf;}
+.heder-list-link:hover,
+.heder-list-link:focus {
+  color: #404bbf;
+}
 
-
-
-
-.adress {font-style: normal;
+.adress {
+  font-style: normal;
 }
 .adres-list {
 }
 .adres-list-item {
 }
-.adres-list-link {color:#434455;
-font-size: 16px;
-font-weight: 400;
-line-height: 1.5;
-letter-spacing: 0.02em;
+.adres-list-link {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
-.adres-list-link:hover, .adres-list-link:focus{color: #404bbf;}
+.adres-list-link:hover,
+.adres-list-link:focus {
+  color: #404bbf;
+}
 /** ====section1===== */
 
 .tittle {
