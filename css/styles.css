@@ -55,10 +55,6 @@ ul {
   letter-spacing: 0.02em;
 }
 
-.header-adress-link:hover,
-.header-adress-link:focus {
-  color: #404bbf;
-}
 
 .header-list-studio:hover,
 .header-list-studiu:focus {
